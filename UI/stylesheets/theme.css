@@ -1,0 +1,27 @@
+.full-height,
+.ui-panel-wrapper {
+	height: 95%;
+}
+
+.half-height {
+	height: 49%;
+}
+
+.text-window {
+}
+
+.text-wrap {
+	overflow-y: auto;
+	overflow-x: hidden;
+	height: 100%;
+}
+
+.text-orig {
+}
+
+.text-trans {
+	margin-top: 1%;
+	padding-top: 1%;  
+	border-top: 1px solid #666;
+	display:none;
+}
